@@ -1,0 +1,21 @@
+{
+  "name": "demo_grunt",
+  "version": "1.0.0",
+  "description": "Vamos ha hacer una demo para ver como funciona",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Aitor Pineyro",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.11.1"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}
